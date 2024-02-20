@@ -6,7 +6,6 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 PROJECT_NAME = "HateSpeechClassification"
 
 path_list = [
-    f"{PROJECT_NAME}/research"
     f"{PROJECT_NAME}/componenets/__init__.py",
     f"{PROJECT_NAME}/components/data_ingestion.py",
     f"{PROJECT_NAME}/components/data_transformation.py",
