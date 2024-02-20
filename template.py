@@ -21,7 +21,7 @@ path_list = [
     f"{PROJECT_NAME}/exception/__init__.py",
     f"{PROJECT_NAME}/logger/__init__.py",
     f"{PROJECT_NAME}/pipeline/__init__.py",
-    f"{PROJECT_NAME}/pipeline/training_pipeline",
+    f"{PROJECT_NAME}/pipeline/training_pipeline.py",
     f"{PROJECT_NAME}/pipeline/prediction_pipeline.py",
     f"{PROJECT_NAME}/ml/__init__.py",
     f"{PROJECT_NAME}/ml/model.py",
